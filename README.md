@@ -25,4 +25,11 @@ TestAsync("Slow thing") {
 
 ## ✨ Getting Started
 
+Simply [create a new repository][template] using this template or copy its code into your existing project!
+
+For more information on how to use `Specs.cpp`, check out the official [Specs][specs] website!
+
+👓 https://specs.tools/
+
 [specs]: https://specs.tools/
+[template]: https://github.com/new?template_name=Specs_xmake_template&template_owner=mrowrpurr
