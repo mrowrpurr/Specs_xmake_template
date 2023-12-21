@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mrowrpurr/Specs.cpp/main/Resources/Images/Logo_400.png" align="right">
+<img src="https://raw.githubusercontent.com/mrowrpurr/Specs.cpp/main/Resources/Images/Logo_400.png" width=200 align="right">
 
 # Specs.cpp xmake template
 
